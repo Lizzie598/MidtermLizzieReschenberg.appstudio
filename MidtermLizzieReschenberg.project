@@ -21,6 +21,22 @@
             "animals", 
             "animals.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "calculate", 
+            "calculate.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "calculateExtraXP", 
+            "calculateExtraXP.json"
+          ]
         }
       ], 
       "configxml": null, 
