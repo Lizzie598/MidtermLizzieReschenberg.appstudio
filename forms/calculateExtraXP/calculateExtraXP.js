@@ -1,4 +1,4 @@
-/*
+
 let calculation = prompt("Would you like to do an average calculation or a random multiplication?")
 
 if(calculation = "average calculation") {
@@ -27,4 +27,3 @@ alert(`The result of multiplying the random number ${num5} with ${num4} is ${ran
 alert("I'm sorry we can't calculate that")
 }
 
-*/
