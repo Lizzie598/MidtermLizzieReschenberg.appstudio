@@ -37,6 +37,14 @@
             "calculateExtraXP", 
             "calculateExtraXP.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "incomeBracket", 
+            "incomeBracket.json"
+          ]
         }
       ], 
       "configxml": null, 
